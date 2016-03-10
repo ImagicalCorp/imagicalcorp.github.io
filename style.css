@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto:300,400,500,700");
+@font-face{font-family:ImagicalMine;src:url(https://imagicalmine.github.io/ImagicalMine.ttf);}
 
 }
 html {
@@ -4551,6 +4552,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   border-width: 1px 0 0;
 }
 .navbar-brand {
+  font-family: "ImagicalMine";
   font-weight: 100;
   float: left;
   padding: 20.5px 15px;
