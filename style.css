@@ -4552,7 +4552,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   border-width: 1px 0 0;
 }
 .navbar-brand {
-  font-family: "ImagicalMine";
+    text-shadow: 1px 1px rgba(0,0,0,0.8);
   font-weight: 100;
   float: left;
   padding: 20.5px 15px;
@@ -4892,6 +4892,7 @@ fieldset[disabled] .navbar-default .btn-link:focus {
   color: #cccccc;
 }
 .navbar-inverse {
+  background-image: url("https://media-minecraftforum.cursecdn.com/avatars/227/83/635357464865526682.gif");
   background-color: #52238A;
   border-color: transparent;
 }
@@ -4907,6 +4908,7 @@ fieldset[disabled] .navbar-default .btn-link:focus {
   color: #bbbbbb;
 }
 .navbar-inverse .navbar-nav > li > a {
+      text-shadow: 1px 1px rgba(0,0,0,0.8);
   color: #ffffff;
 }
 .navbar-inverse .navbar-nav > li > a:hover,
@@ -4934,7 +4936,7 @@ fieldset[disabled] .navbar-default .btn-link:focus {
   background-color: transparent;
 }
 .navbar-inverse .navbar-toggle .icon-bar {
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: #ffffff;
 }
 .navbar-inverse .navbar-collapse,
 .navbar-inverse .navbar-form {
