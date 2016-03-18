@@ -1,5 +1,4 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto:300,400,500,700");
-@font-face{font-family:ImagicalMine;src:url(https://imagicalmine.github.io/ImagicalMine.ttf);}
 
 }
 html {
@@ -6022,6 +6021,9 @@ button.list-group-item-danger.active:focus {
   color: #ffffff;
   background-color: #52238A;
   border-color: #52238A;
+  background-image: url("https://media-minecraftforum.cursecdn.com/avatars/227/83/635357464865526682.gif");
+    background-color: #52238A;
+    text-shadow: 1px 1px rgba(0,0,0,0.8);
 }
 .panel-primary > .panel-heading + .panel-collapse > .panel-body {
   border-top-color: #52238A;
