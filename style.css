@@ -186,6 +186,17 @@ th {
   padding: 0;
 }
 
+
+.footer-config {
+  color: #ffffff;
+  width: 100%;
+  font-size: 17px;
+  height: 64px;
+  font-family: "Roboto";
+  background-color: #FF6600;
+  text-align: center;
+}
+
 /*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */
 @media print {
   *,
