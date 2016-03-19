@@ -2,4 +2,4 @@ Website for ImagicalMine - a server software for Minecraft: Pocket Edition based
 
 ### Visit
 
-imagicalmine.github.io
+#### <a href = "http://imagicalmine.github.io">ImagicalMine!</a>
