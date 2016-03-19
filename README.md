@@ -1,1 +1,1 @@
-# imagicalmine.github.io
+Website for ImagicalMine - a server software for Minecraft: Pocket Edition based on PocketMine-MP
