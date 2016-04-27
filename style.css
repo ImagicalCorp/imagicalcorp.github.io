@@ -9,6 +9,9 @@ html {
 body {
   margin: 0;
 }
+a:hover {
+  font-weight: 900;
+}
 article,
 aside,
 details,
