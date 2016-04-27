@@ -63,7 +63,7 @@ a:hover {
 .grow:hover,
 .grow:focus,
 .grow:active {
-    transform: scale(1.5);
+    transform: scale(1.2);
 }
 article,
 aside,
